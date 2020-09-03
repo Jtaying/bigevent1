@@ -46,7 +46,7 @@ body {
 
 .layui-icon {
     position: absolute;
-    left: 10px;
+    left: -10px;
     top: 10px;
 }
 
